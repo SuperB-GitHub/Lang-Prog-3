@@ -1,0 +1,10 @@
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 3\Лаба 3\bin\Debug\Лаба 3.exe.config
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 3\Лаба 3\bin\Debug\Лаба 3.exe
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 3\Лаба 3\bin\Debug\Лаба 3.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.AssemblyReference.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 3\Лаба 3\obj\Debug\Лаба_3.Properties.Resources.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.GenerateResource.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 3\Лаба 3\obj\Debug\Лаба 3.csproj.CoreCompileInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 3\Лаба 3\obj\Debug\Лаба 3.exe
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 3\Лаба 3\obj\Debug\Лаба 3.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 3\Лаба 3\obj\Debug\Лаба_3.Form1.resources
