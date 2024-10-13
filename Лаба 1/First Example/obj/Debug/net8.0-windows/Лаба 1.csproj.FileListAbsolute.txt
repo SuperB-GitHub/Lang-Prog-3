@@ -1,0 +1,34 @@
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\bin\Debug\net8.0-windows\Лаба 1.exe
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\bin\Debug\net8.0-windows\Лаба 1.deps.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\bin\Debug\net8.0-windows\Лаба 1.runtimeconfig.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\bin\Debug\net8.0-windows\Лаба 1.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\bin\Debug\net8.0-windows\Лаба 1.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\Лаба_1.Form1.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\Лаба 1.csproj.GenerateResource.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\Лаба 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\Лаба 1.AssemblyInfoInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\Лаба 1.AssemblyInfo.cs
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\Лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\Лаба 1.sourcelink.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\Лаба 1.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\refint\Лаба 1.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\Лаба 1.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\Лаба 1.genruntimeconfig.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\obj\Debug\net8.0-windows\ref\Лаба 1.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\bin\Debug\net8.0-windows\Лаба 1.exe
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\bin\Debug\net8.0-windows\Лаба 1.deps.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\bin\Debug\net8.0-windows\Лаба 1.runtimeconfig.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\bin\Debug\net8.0-windows\Лаба 1.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\bin\Debug\net8.0-windows\Лаба 1.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба_1.Form1.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба 1.csproj.GenerateResource.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба 1.AssemblyInfoInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба 1.AssemblyInfo.cs
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба 1.csproj.CoreCompileInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба 1.sourcelink.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба 1.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\refint\Лаба 1.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба 1.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба 1.genruntimeconfig.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\ref\Лаба 1.dll

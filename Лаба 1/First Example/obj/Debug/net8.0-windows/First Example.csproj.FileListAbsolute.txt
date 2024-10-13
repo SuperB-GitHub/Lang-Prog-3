@@ -1,0 +1,17 @@
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\bin\Debug\net8.0-windows\First Example.exe
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\bin\Debug\net8.0-windows\First Example.deps.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\bin\Debug\net8.0-windows\First Example.runtimeconfig.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\bin\Debug\net8.0-windows\First Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\bin\Debug\net8.0-windows\First Example.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\Лаба_1.Form1.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\First Example.csproj.GenerateResource.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\First Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\First Example.AssemblyInfoInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\First Example.AssemblyInfo.cs
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\First Example.csproj.CoreCompileInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\First Example.sourcelink.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\First Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\refint\First Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\First Example.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\First Example.genruntimeconfig.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\First Example\obj\Debug\net8.0-windows\ref\First Example.dll
