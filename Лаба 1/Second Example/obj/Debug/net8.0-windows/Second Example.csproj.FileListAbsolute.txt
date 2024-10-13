@@ -1,0 +1,33 @@
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\bin\Debug\net8.0-windows\Second Example.exe
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\bin\Debug\net8.0-windows\Second Example.deps.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\bin\Debug\net8.0-windows\Second Example.runtimeconfig.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\bin\Debug\net8.0-windows\Second Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\bin\Debug\net8.0-windows\Second Example.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\Second_Example.Form1.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\Second Example.csproj.GenerateResource.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\Second Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\Second Example.AssemblyInfoInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\Second Example.AssemblyInfo.cs
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\Second Example.csproj.CoreCompileInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\Second Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\refint\Second Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\Second Example.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\Second Example.genruntimeconfig.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Second Example\obj\Debug\net8.0-windows\ref\Second Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\bin\Debug\net8.0-windows\Second Example.exe
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\bin\Debug\net8.0-windows\Second Example.deps.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\bin\Debug\net8.0-windows\Second Example.runtimeconfig.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\bin\Debug\net8.0-windows\Second Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\bin\Debug\net8.0-windows\Second Example.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\Second_Example.Form1.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\Second Example.csproj.GenerateResource.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\Second Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\Second Example.AssemblyInfoInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\Second Example.AssemblyInfo.cs
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\Second Example.csproj.CoreCompileInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\Second Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\refint\Second Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\Second Example.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\Second Example.genruntimeconfig.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\ref\Second Example.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Example\obj\Debug\net8.0-windows\Second_Example.Form2.resources

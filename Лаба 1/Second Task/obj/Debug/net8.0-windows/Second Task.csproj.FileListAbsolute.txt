@@ -1,0 +1,18 @@
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\bin\Debug\net8.0-windows\Second Task.exe
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\bin\Debug\net8.0-windows\Second Task.deps.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\bin\Debug\net8.0-windows\Second Task.runtimeconfig.json
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\bin\Debug\net8.0-windows\Second Task.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\bin\Debug\net8.0-windows\Second Task.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second_Task.Form1.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second Task.csproj.GenerateResource.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second Task.AssemblyInfoInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second Task.AssemblyInfo.cs
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second Task.csproj.CoreCompileInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second Task.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\refint\Second Task.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second Task.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second Task.genruntimeconfig.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\ref\Second Task.dll
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second_Task.Form2.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\Second Task\obj\Debug\net8.0-windows\Second_Task.Properties.Resources.resources
