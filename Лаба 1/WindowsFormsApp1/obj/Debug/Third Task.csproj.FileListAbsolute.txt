@@ -1,0 +1,11 @@
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\obj\Debug\Third Task.csproj.AssemblyReference.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\obj\Debug\Third Task.csproj.GenerateResource.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\obj\Debug\Third Task.csproj.CoreCompileInputs.cache
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Новый пользователь\Desktop\Языки программирования\Лаба 1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
